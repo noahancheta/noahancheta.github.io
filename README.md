@@ -1,10 +1,16 @@
 # Project Name
 
+Description
+
 ## Installation
+
+Description
 
 ## Usage
 
+Description
+
 ## Authors
 - Hamidi, Ilyas
-- Iusunova, Emilia
+- Iusupova, Emiliia
 - Ancheta, Noah
